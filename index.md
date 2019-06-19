@@ -1,5 +1,5 @@
 ---
-title: Luke Smith
+title: Michael Lundquist
 linkcolor: blue
 pdf-engine: xelatex
 header-includes:
@@ -9,11 +9,7 @@ classoption: "12pt"
 
 # About
 
-I'm Luke Smith.
-
-You're looking at a document that doubles as a .pdf CV and a html webpage. However you're viewing this, welcome! A lot of relevant information about me is here.
-
-You can download this in printable form at [https://lukesmith.xyz/lukesmith.pdf](https://lukesmith.xyz/lukesmith.pdf) or see it in HTML form at [https://lukesmith.xyz](https://lukesmith.xyz).
+I'm a junior developer interested in open source development and looking for a job to further this interest.
 
 ## My main work
 
@@ -23,10 +19,8 @@ You can download this in printable form at [https://lukesmith.xyz/lukesmith.pdf]
 
 ## Contact
 
-+ Email: [luke@lukesmith.xyz](mailto:luke@lukesmith.xyz)
-+ Website: [https://lukesmith.xyz](https://lukesmith.xyz)
-+ Github: [https://github.com/LukeSmithxyz](https://github.com/LukeSmithxyz)
-+ YouTube: [https://youtube.com/c/LukeSmithxyz](https://youtube.com/c/LukeSmithxyz)
++ Email: [michaellundquist7@gmail.com](mailto:michaellundquist7@gmail.com)
++ Github: [user-name-is-taken](https://github.com/user-name-is-taken)
 
 ## Institutions
 
