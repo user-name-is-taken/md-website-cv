@@ -9,7 +9,7 @@ classoption: "12pt"
 
 # Resume
 
-- I'm an Software Engineering Intern at Leidos. interested in open source development.
+- I'm an Software Engineering Intern at Leidos interested in open source development.
 
 ## Contact
 
