@@ -5,16 +5,20 @@ pdf-engine: xelatex
 header-includes:
  - \usepackage[margin=.5in]{geometry}
 classoption: "12pt"
+keywords: perl, modern perl, cpan, cgi, nginx, apache, algorithms,
+    freelance, msc, senior perl developer, xml, xslt, mysql, crawling, 
+	scraping, remote, parsing, plack, git, api, testing
+left-column:
+  - 'Senior Perl Programmer'
+  - 'Remote Only'
+right-column:
+  - 'Email: [john@castleamber.com](mailto:john@castleamber.com)'
+  - 'Homepage: [http://castleamber.com/](http://castleamber.com/)'
+  - 'Personal Site: [http://johnbokma.com/](http://johnbokma.com/)'
+  - 'Last Updated: \today'
 ---
 
-## Resume
-
-- I'm an Software Engineering Intern at Leidos interested in open source development.
-
-## Contact
-
-- Email: [michaellundquist7@gmail.com](mailto:michaellundquist7@gmail.com)
-- Github: [user-name-is-taken](https://github.com/user-name-is-taken)
+- [michaellundquist7@gmail.com](mailto:michaellundquist7@gmail.com)
 
 ## Skills
 
